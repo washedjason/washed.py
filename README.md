@@ -1,3 +1,3 @@
-yo
-this is the "if you know, you know"
+yo!
+this is the "if you know, you know".
 chefs only!
