@@ -28,15 +28,21 @@ print("captcha found, please wait for the captcha to be solved")
 
 print("chinese man solivning capctcha")
 
+time.sleep(5)
+
 print("fuck u adidas Gotta INject Backdoor devil emoji")
 
 print("how do u backdoor again")
+
+time.sleep(5)
 
 print("type in hmac cookie")
 
 input("choclate chip, oatmeal, plain, sugar")
 
 print("good choice")
+
+time.sleep(5)
 
 print("injecTing")
 
@@ -46,11 +52,13 @@ print("error bitch nigga")
 
 print("retrying")
 
-time.sleep(1)
+time.sleep(2)
 
 print("injected into adidas")
 
 print("chinese man clicking Add To cat")
+
+time.sleep(5)
 
 print("*cart")
 
@@ -59,6 +67,8 @@ time.sleep(5)
 print("successfully adding to cart")
 
 print("checking out")
+
+time.sleep(5)
 
 print("...please wait...")
 
@@ -70,13 +80,21 @@ time.sleep(5)
 
 print("card info successfully submitted")
 
+time.sleep(1)
+
 print("success, Order# AD006169123")
 
+time.sleep(1)
+
 print("what a fucking cook lad")
+
+time.sleep(1)
 
 print("ur welcome for yezzy")
 
 print("i love you")
+
+time.sleep(1)
 
 print("bot made by @washedjason x @geckosquadron x @pupperpuppy")
 
