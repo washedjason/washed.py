@@ -28,7 +28,7 @@ print("captcha found, please wait for the captcha to be solved")
 
 print("chinese man solivning capctcha")
 
-print("fuck u adidas Gotta INject Backdoor 😈😈😈😈")
+print("fuck u adidas Gotta INject Backdoor devil emoji")
 
 print("how do u backdoor again")
 
