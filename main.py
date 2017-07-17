@@ -1,6 +1,6 @@
 import time
 
-print("welcome to ur mom gay bro, @washedjason x @geckosquadron x @pupperpuppy bot collab")
+print("yezy cooker copper @washedjason x @geckosquadron x @pupperpuppy bot collab")
 
 time.sleep(5)
 
