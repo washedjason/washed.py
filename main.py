@@ -1,12 +1,12 @@
 import time
 
-print("welcome to washedbot, exclusive to only washedjason followers")
+print("welcome to ur mom gay bro, @washedjason x @geckosquadron x @pupperpuppy bot collab")
 
 time.sleep(5)
 
 print("using info.txt")
 
-print("going to http://www.adidas.com/us/ultraboost-parley-shoes/CP9685.html")
+print("going to http://www.adidas.com/us/yezzy-bost3590-cooked!!!/CP6969.html")
 
 print("...please wait...")
 
@@ -20,11 +20,13 @@ print("product is in stock")
 
 print("select a size")
 
-input("4, 5, 6, 8, 8.5 ")
+input("19, 20, 3, 2, 23 ")
 
 print("adding to cart")
 
 print("captcha found, please wait for the captcha to be solved")
+
+print("chinese man solivning capctcha")
 
 time.sleep(10)
 
@@ -46,4 +48,8 @@ print("success, Order# AD006169123")
 
 print("what a fucking cook lad")
 
-print("bot made by @washedjason")
+print("ur welcome for yezzy")
+
+print("i love you")
+
+print("bot made by @washedjason x @geckosquadron x @pupperpuppy")
