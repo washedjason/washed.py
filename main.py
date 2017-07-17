@@ -38,9 +38,13 @@ time.sleep(5)
 
 print("type in hmac cookie")
 
-input("choclate chip, oatmeal, plain, sugar")
+print("choclate chip, oatmeal, plain, sugar")
 
-print("good choice")
+print("all of them tried")
+
+time.sleep(3)
+
+print("oh shit we InjeCted")
 
 time.sleep(5)
 
