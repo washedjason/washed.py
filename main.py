@@ -100,7 +100,7 @@ print("i love you")
 
 time.sleep(1)
 
-print("bot made by @washedjason x @geckosquadron x @pupperpuppy")
+print("bot made by @washedjason x @geckosquadron")
 
 time.sleep(25)
 
