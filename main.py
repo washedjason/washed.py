@@ -1,49 +1,53 @@
 import time
 
-print("welcome to washedbot, exclusive to only washedjason followers")
+print("welcome to nikeaccess by washedjason")
 
-time.sleep(5)
+time.sleep(3)
 
-print("using info.txt")
-
-print("going to http://www.adidas.com/us/ultraboost-parley-shoes/CP9685.html")
+print("going to https://www.nike.com/launch/t/the-ten-zoom-fly-off-white-2")
 
 print("...please wait...")
 
-time.sleep(5)
+time.sleep(2)
 
-print("checking if product is available")
+input("Email ")
 
-time.sleep(5)
+input("Password ")
 
-print("product is in stock")
+print("looking for access")
 
-print("select a size")
+print("access found!")
 
-input("4, 5, 6, 8, 8.5 ")
+time.sleep(2)
 
-print("adding to cart")
+print("oh shit, choose a size")
 
-print("captcha found, please wait for the captcha to be solved")
+input("7, 7.5, 8, 8.5, 9, 10, 10.5, 11, 12 ")
 
-time.sleep(10)
+print("adding to cart...")
 
-print("successfully adding to cart")
+time.sleep(2)
 
-print("checking out")
+print("going to checkout...")
 
-print("...please wait...")
+time.sleep(2)
 
-time.sleep(15)
+print("Billing and Shipping information submitted!")
 
-print("shipping and billing info successfully submitted")
+time.sleep(3)
 
-time.sleep(5)
+print("Entering saved Credit/Debit card on account")
 
-print("card info successfully submitted")
+time.sleep(2)
 
-print("success, Order# AD006169123")
+print("Processing Payment!")
+
+time.sleep(7)
+
+print("OH SHIT! CHECKOUT SUCCESSSSS ESKETITTTTTT MANUAL GANG U KNOW HOW WE ROCKIN'")
 
 print("what a fucking cook lad")
+
+time.sleep(10)
 
 print("bot made by @washedjason")
